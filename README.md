@@ -6,6 +6,10 @@ A coloring-book browser app for the Czechitas data-analysis workshop. Toggle SQL
 
 **Live demo:** https://ishalkin.github.io/czechitas-skill-builder/
 
+**Sibling tools:**
+- https://ishalkin.github.io/czechitas-stack-trace/ — same five layers, abstracted into a stack-trace x-ray
+- https://ishalkin.github.io/czechitas-pixel-agent/ — the same five layers as a pixel-art office walkthrough
+
 ## What it does
 
 Workshop participants click checkboxes representing skill rules ("refuse DROP", "avoid `_OLD` tables"). The center panel shows the resulting `SKILL.md` file. The right panel shows how a simulated agent would respond to four SQL queries — verdicts change in real time as rules toggle.
